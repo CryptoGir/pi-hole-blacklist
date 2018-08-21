@@ -26,9 +26,11 @@ read -n 1 -s
 # collecting the youtube ads website from the pihole logs and added it the youtubeList.txt 
 sudo cat /var/log/pihole*.log |grep 'r[0-9]*-.*.googlevideo'|awk -v a=$piholeIPV4 '{print a " " $8}'|sort |uniq>> $balckListFile
 sudo cat /var/log/pihole*.log |grep 'r[0-9]*-.*.googlevideo'|awk '{print $8}'|sort |uniq>> $blacklist
+#testing
+read -n 1 -s
 
 wait 
 # remove the duplicate records in place
-gawk -i inplace '!a[$0]++' $balckListFile
+awk -i inplace '!a[$0]++' $balckListFile
 wait 
-gawk -i inplace '!a[$0]++' $blacklist
+awk -i inplace '!a[$0]++' $blacklist
