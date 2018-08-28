@@ -8,3 +8,10 @@ https://tspprs.com/dl/phishing
 https://tspprs.com/dl/misc
 https://tspprs.com/dl/malware
 https://tspprs.com/dl/tracking
+
+#StevenBlack
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+#
+https://hosts-file.net/ad_servers.txt
