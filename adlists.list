@@ -84,3 +84,5 @@ https://v.firebog.net/hosts/Airelle-hrsk.txt
 #The Big List of Hacked Malware Web Sites
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 ##########################################################
+#####My List##
+https://raw.githubusercontent.com/CryptoGir/pi-hole-lists/master/myBlackList.txt
