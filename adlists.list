@@ -1,19 +1,13 @@
-############################################################
-###The Big Blocklist Collection from https://firebog.net/###
-############################################################
+https://raw.githubusercontent.com/CryptoGir/pi-hole-lists/master/myBlackList.txt
+###The Big List of Hacked Malware Web Sites##
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 ###Suspicious Lists##
-#################
 https://hosts-file.net/grm.txt
-https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://v.firebog.net/hosts/BillStearns.txt
 http://sysctl.org/cameleon/hosts
-https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
-https://www.dshield.org/feeds/suspiciousdomains_High.txt
-https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://hostsfile.org/Downloads/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
@@ -23,32 +17,7 @@ http://winhelp2002.mvps.org/hosts.txt
 https://hostsfile.mine.nu/hosts0.txt
 https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
-####################################################################################################################
-###Advertising Lists##
-##################
-https://adaway.org/hosts.txt
-https://v.firebog.net/hosts/AdguardDNS.txt
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://hosts-file.net/ad_servers.txt
-https://v.firebog.net/hosts/Easylist.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-https://www.squidblacklist.org/downloads/dg-ads.acl
-###################################################################################################################
-###Tracking & Telemetry Lists##
-###########################
-https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Prigent-Ads.txt
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-https://v.firebog.net/hosts/Airelle-trc.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-####################################################################################################################
 ###Malicious Lists##
-################
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://mirror1.malwaredomains.com/files/justdomains
 https://hosts-file.net/exp.txt
@@ -70,19 +39,4 @@ https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://v.firebog.net/hosts/Airelle-hrsk.txt
-#####################################################################################################################
-###Other Lists##
-############
-#https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
-#https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-#https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-#https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
-###########################################################################################################################
-###############################################################################################################################
-###Other lists###
-###############################################################################################################################
-###The Big List of Hacked Malware Web Sites##
-https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
-##########################################################
-#####My List##
-https://raw.githubusercontent.com/CryptoGir/pi-hole-lists/master/myBlackList.txt
+
